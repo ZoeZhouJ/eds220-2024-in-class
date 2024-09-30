@@ -1,7 +1,7 @@
 # eds220-2024-in-class
 in class work for EDS 220 MEDS course
 # EDS 220 In-Class Repository
-This repository hosts all the work completed in-class by [YOUR NAME HERE] during the EDS 220 - *Working with Environmental Datasets* lectures.
+This repository hosts all the work completed in-class by Zoe Zhou during the EDS 220 - *Working with Environmental Datasets* lectures.
 ## Course Information
 - **Course Title:** EDS 220 - Working with Environmental Datasets
 - **Instructor:** Carmen Galaz García
